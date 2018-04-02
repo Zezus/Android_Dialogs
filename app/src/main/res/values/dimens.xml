@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_padding">20dp</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="margin_top">24dp</dimen>
+</resources>
